@@ -1,0 +1,17 @@
+'E708F.g4_le_8' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ E708F.allOK4._native.native_decide.ax_1_1,
+ E708F.primeTab_ok._native.native_decide.ax_1_1]
+'E708F.g5_le_10' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ E708F.chunk000 … chunk047 (48 aksjomatów native_decide),
+ E708F.cov48._native.native_decide.ax_1_1,
+ E708F.primeTab_ok._native.native_decide.ax_1_1]
+'E708F.cert_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'E708F.cost_good' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ E708F.primeTab_ok._native.native_decide.ax_1_1]
+'Erdos708Chain.Proofs.long_interval' depends on axioms: [propext, Classical.choice, Quot.sound]

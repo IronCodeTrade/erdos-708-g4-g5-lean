@@ -1,0 +1,20 @@
+name = "E708"
+defaultTargets = ["E708"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "v4.36.0"
+
+[[lean_lib]]
+name = "E708"
+
+[[lean_lib]]
+name = "Erdos708"
+
+[[lean_lib]]
+name = "E708F"
+
+[[lean_lib]]
+name = "E708C"
+precompileModules = true
