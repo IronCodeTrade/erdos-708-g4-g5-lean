@@ -1,11 +1,6 @@
 # Licence and attribution
 
-Before you publish this repository, choose one licence and rename that file to `LICENSE`:
-
-- `LICENSE_CC0.txt` — recommended. This matches Haoyu Chen's repository (CC0 1.0) and is the simplest choice for a mathematical formalisation.
-- `LICENSE_MIT.txt` — also possible. Chen's files under `Erdos708/` remain CC0 in any case.
-
-Then delete the licence file you did not choose, or leave both as documentation and keep the chosen one named `LICENSE`.
+This repository is released under CC0 1.0 (`LICENSE`).
 
 ## Third-party code
 

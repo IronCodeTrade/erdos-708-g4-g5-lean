@@ -85,4 +85,4 @@ The proof search, the computational work, the Lean formalisation and the accompa
 
 ## Licence
 
-See `NOTICE.md`. Choose `LICENSE_CC0.txt` (recommended) or `LICENSE_MIT.txt`, rename the chosen file to `LICENSE`, and publish.
+This repository is released under CC0 1.0 (see `LICENSE`). Haoyu Chen's files under `Erdos708/` are CC0 1.0 as well; see `NOTICE.md`. A short English note is in `paper/Michalak_Erdos708_g4_g5.pdf`.
